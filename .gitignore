@@ -1,0 +1,27 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temp files
+*.userprefs
+
+# ASP.NET Scaffolding
+appsettings*.json
+
+# Logs
+logs
+*.log
+
+# Rider
+.idea/
+
+# Packages
+*.nupkg
+
+# OS
+.DS_Store
+Thumbs.db
